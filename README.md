@@ -1,2 +1,4 @@
 # h3-engine
-Fast Minimax H3 inference 
+![Demo](assets/output.gif)
+
+dont use this just yet 
